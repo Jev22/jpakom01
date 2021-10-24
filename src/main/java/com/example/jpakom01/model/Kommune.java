@@ -6,6 +6,7 @@ import javax.persistence.Id;
 @Entity
 public class Kommune {
 
+
     @Id
     private Integer kommuneKode;
     private String navn;
